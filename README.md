@@ -26,14 +26,14 @@ Users should be able to:
 
 ### Screenshot
 
-![](./images/image-laptop.png)
 ![](./images/image-phone.png)
+![](./images/image-laptop.png)
 
 
 ### Links
 
-- Solution URL: [](https://github.com/Ferperezm28/Results-summary-component)
-- Live Site URL: [](resultssummaryferp.netlify.app)
+- Solution URL: [github](https://github.com/Ferperezm28/Results-summary-component)
+- Live Site URL: [netlify](resultssummaryferp.netlify.app)
 
 
 ## My process
