@@ -11,7 +11,6 @@ This is a solution to the [Results summary component challenge on Frontend Mento
 - [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
 
@@ -34,7 +33,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [](https://github.com/Ferperezm28/Results-summary-component)
-- Live Site URL: []()
+- Live Site URL: [](resultssummaryferp.netlify.app)
 
 
 ## My process
