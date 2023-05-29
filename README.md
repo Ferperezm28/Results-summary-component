@@ -27,7 +27,7 @@ Users should be able to:
 ### Screenshot
 
 ![](./images/image-laptop.png)
-![](./images/image-phove.png)
+![](./images/image-phone.png)
 
 
 ### Links
