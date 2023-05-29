@@ -33,7 +33,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [github](https://github.com/Ferperezm28/Results-summary-component)
-- Live Site URL: [netlify](resultssummaryferp.netlify.app)
+- Live Site URL: [netlify](https://resultssummaryferp.netlify.app/)
 
 
 ## My process
